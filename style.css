@@ -28,3 +28,7 @@ section {
 .electric {
       background-color:aqua;
 }
+
+h2:nth-child(em) {
+      color:deep pink;
+}
