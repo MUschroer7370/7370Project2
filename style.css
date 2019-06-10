@@ -29,7 +29,7 @@ section {
       background-color:aqua;
 }
 
-h2:nth-child(em) {
+h2>em {
       color:deeppink;
 }
 
