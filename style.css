@@ -29,6 +29,12 @@ section {
       background-color:aqua;
 }
 
-h2:em {
+h2:nth-child(em) {
       color:deeppink;
+}
+
+h3 {
+    color:green;
+    font-size:18px;
+    font-style:italic;
 }
